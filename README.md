@@ -50,14 +50,12 @@ This app has been deployed on heroku, please click [here](https://yelpcamp--demo
  
 ## Getting Started
 
-This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
-
 This app contians key information from Google Map Api, which has been hidden for safety reason. Thus, the google map feature may not run on local machine.
 
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/lucasweng/yelp-camp.git
+git clone https://github.com/jiajunc/YelpCamp.git
 ```
 
 
