@@ -7,7 +7,7 @@
     ----------------------------------------------------------------- 
 
 
-Welcome to your Node.js project on Cloud9 IDE!
+Already deployed on heroku, please click [here](https://jiajun-yelpcamp.herokuapp.com/campgrounds)
 
 This chat example showcases how to use `socket.io` with a static `express` server.
 
